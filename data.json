@@ -1,0 +1,32 @@
+{
+  "servers": {
+    "Tamim": {
+      "name": "Tamim",
+      "owner": "tanmay",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-11T00:21:51.800220"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-07-09T13:19:43.636383",
+      "password_hash": "ef260e9aa3c673af240d17a2660480361a8e081d1ffeca2a5ed0e3219fc18567"
+    },
+    "tanmay": {
+      "joined": "2026-08-08T11:51:41.536184",
+      "password_hash": "dda74c9e0a6eab295a2a05b20643943c2075fdee1ebbba96e3e440c2c25e58a7"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "site_name": "TANMAY VPS",
+    "auto_restart_interval": 300
+  }
+}
